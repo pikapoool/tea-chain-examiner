@@ -1,6 +1,6 @@
 {
-  "name": "tea-chain-examiner",
-  "version": "1.1.0",
+  "name": "@pikapoool/tea-chain-examiner",
+  "version": "1.1.1",
   "description": "chain explorer API",
   "main": "./chainExaminer/chainexaminer.js",
   "scripts": {
@@ -25,7 +25,7 @@
     "ethers": "^6.11.1",
     "mysql": "^2.18.1",
     "socket.io-client": "^4.7.4",
-    "@pikapoool/sdk": "2.0.0",
+    "@pikapoool/sdk": "^2.3.0",
     "web3": "^4.6.0"
   }
 }
