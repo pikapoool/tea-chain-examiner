@@ -1,0 +1,31 @@
+{
+  "name": "tea-chain-examiner",
+  "version": "1.1.0",
+  "description": "chain explorer API",
+  "main": "./chainExaminer/chainexaminer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pikapoool/tea-chain-examiner.git"
+  }, 
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pikapoool/tea-chain-examiner/issues"
+  },
+  "homepage": "https://github.com/pikapoool/tea-chain-examiner",
+  "source": "https://github.com/pikapoool/tea-chain-examiner.git",
+  "Source": "https://github.com/pikapoool/tea-chain-examiner.git",
+  "dependencies": {
+    "alchemy-sdk": "^3.1.2",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.11.1",
+    "mysql": "^2.18.1",
+    "socket.io-client": "^4.7.4",
+    "@pikapoool/sdk": "2.0.0",
+    "web3": "^4.6.0"
+  }
+}
